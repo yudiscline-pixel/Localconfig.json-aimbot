@@ -1,0 +1,2 @@
+# Localconfig.json-aimbot
+Localconfig
